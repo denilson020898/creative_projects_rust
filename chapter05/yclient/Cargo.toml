@@ -1,0 +1,15 @@
+[package]
+name = "yclient"
+version = "0.1.0"
+authors = ["Denilson <denilson020898@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+yew = "0.6"
+failure = "0.1"
+serde = "1"
+serde_derive = "1"
+url = "1"
+base64 = "0.10"
